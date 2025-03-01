@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Growth MindSet by Shoaib Salman", project_icon="𖡎𖡎")
+st.set_page_config(page_title="Growth MindSet by Shoaib Salman")
 st.title("Growth Mindset AI project of Q3")
 
 st.header(" 🤾🏼‍♂️  Wellcome the Growth Mindset Setup Page  🏆")
